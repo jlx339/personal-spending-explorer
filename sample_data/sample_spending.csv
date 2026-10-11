@@ -1,0 +1,193 @@
+date,merchant,category,amount,payment_method
+2026-04-01,Maple Apartments,Rent,1850.00,Debit
+2026-04-01,Maple Market,Groceries,119.95,Cash
+2026-04-03,Community Events,Entertainment,27.27,Cash
+2026-04-03,Noodle Corner,Dining,51.72,Cash
+2026-04-04,Maple Market,Groceries,117.35,Cash
+2026-04-05,Home Internet,Utilities,75.00,Credit
+2026-04-07,Corner Pantry,Groceries,66.11,Cash
+2026-04-08,City Transit,Transport,27.20,Credit
+2026-04-08,Maple Market,Groceries,64.57,Cash
+2026-04-11,Harbour Cafe,Dining,29.26,Credit
+2026-04-12,Neighbourhood Taxi,Transport,20.66,Debit
+2026-04-13,Noodle Corner,Dining,14.42,Debit
+2026-04-13,Trail Outfitters,Shopping,59.22,Cash
+2026-04-14,Maple Market,Groceries,33.20,Credit
+2026-04-15,City Hydro,Utilities,81.19,Debit
+2026-04-15,City Transit,Transport,33.38,Debit
+2026-04-15,Harbour Cafe,Dining,50.42,Debit
+2026-04-15,Northside Grocer,Groceries,124.54,Credit
+2026-04-18,Community Events,Entertainment,27.98,Debit
+2026-04-20,Everyday Goods,Shopping,119.03,Cash
+2026-04-20,Harbour Cafe,Dining,28.16,Cash
+2026-04-20,Oak Street Kitchen,Dining,36.12,Credit
+2026-04-21,Northside Grocer,Groceries,117.28,Credit
+2026-04-23,City Transit,Transport,9.19,Cash
+2026-04-23,Trail Outfitters,Shopping,126.99,Credit
+2026-04-24,Everyday Goods,Shopping,55.10,Debit
+2026-04-25,Harbour Cafe,Dining,34.07,Credit
+2026-04-25,Oak Street Kitchen,Dining,19.57,Debit
+2026-04-26,Music Subscription,Entertainment,35.83,Debit
+2026-04-27,Local Cinema,Entertainment,14.57,Credit
+2026-04-28,Downtown Parking,Transport,11.77,Debit
+2026-04-30,Corner Pantry,Groceries,32.09,Debit
+2026-05-01,Maple Apartments,Rent,1850.00,Debit
+2026-05-04,Noodle Corner,Dining,30.54,Credit
+2026-05-05,Home Internet,Utilities,75.00,Credit
+2026-05-06,Corner Pantry,Groceries,97.16,Credit
+2026-05-08,Corner Pantry,Groceries,119.97,Debit
+2026-05-08,Everyday Goods,Shopping,107.95,Credit
+2026-05-09,Harbour Cafe,Dining,47.50,Cash
+2026-05-13,Maple Market,Groceries,87.30,Credit
+2026-05-13,Music Subscription,Entertainment,40.58,Cash
+2026-05-13,Oak Street Kitchen,Dining,37.76,Debit
+2026-05-15,City Hydro,Utilities,67.88,Debit
+2026-05-15,Local Cinema,Entertainment,19.90,Credit
+2026-05-15,Northside Grocer,Groceries,51.40,Credit
+2026-05-15,Oak Street Kitchen,Dining,6.76,Cash
+2026-05-16,City Transit,Transport,5.09,Debit
+2026-05-16,Everyday Goods,Shopping,105.07,Debit
+2026-05-17,Local Cinema,Entertainment,44.65,Cash
+2026-05-17,Maple Market,Groceries,108.85,Credit
+2026-05-17,Oak Street Kitchen,Dining,27.09,Credit
+2026-05-22,Oak Street Kitchen,Dining,15.88,Cash
+2026-05-24,Everyday Goods,Shopping,94.62,Cash
+2026-05-24,Northside Grocer,Groceries,123.77,Cash
+2026-05-25,Community Events,Entertainment,26.46,Debit
+2026-05-25,Everyday Goods,Shopping,35.60,Cash
+2026-05-25,Neighbourhood Taxi,Transport,16.73,Cash
+2026-05-25,Oak Street Kitchen,Dining,28.35,Debit
+2026-05-27,City Transit,Transport,19.79,Debit
+2026-05-28,Maple Market,Groceries,45.96,Cash
+2026-05-29,City Transit,Transport,28.69,Credit
+2026-05-30,Neighbourhood Taxi,Transport,3.54,Debit
+2026-05-30,Oak Street Kitchen,Dining,15.21,Debit
+2026-05-31,Northside Grocer,Groceries,109.79,Cash
+2026-06-01,Maple Apartments,Rent,1850.00,Debit
+2026-06-02,Local Cinema,Entertainment,51.59,Credit
+2026-06-03,Maple Market,Groceries,37.64,Credit
+2026-06-04,Oak Street Kitchen,Dining,14.44,Debit
+2026-06-05,Harbour Cafe,Dining,41.06,Debit
+2026-06-05,Home Internet,Utilities,75.00,Credit
+2026-06-06,Downtown Parking,Transport,36.79,Debit
+2026-06-07,City Transit,Transport,36.35,Credit
+2026-06-07,Oak Street Kitchen,Dining,22.08,Debit
+2026-06-08,Maple Market,Groceries,124.41,Credit
+2026-06-08,Northside Grocer,Groceries,105.49,Credit
+2026-06-10,Everyday Goods,Shopping,50.66,Cash
+2026-06-11,Local Cinema,Entertainment,14.67,Cash
+2026-06-12,Noodle Corner,Dining,41.19,Debit
+2026-06-13,Downtown Parking,Transport,3.67,Debit
+2026-06-15,City Hydro,Utilities,57.62,Debit
+2026-06-15,Harbour Cafe,Dining,26.96,Debit
+2026-06-16,Community Events,Entertainment,51.18,Credit
+2026-06-16,Corner Pantry,Groceries,63.10,Credit
+2026-06-17,Northside Grocer,Groceries,66.99,Cash
+2026-06-18,City Transit,Transport,4.70,Credit
+2026-06-21,Harbour Cafe,Dining,14.56,Debit
+2026-06-23,Everyday Goods,Shopping,94.73,Credit
+2026-06-23,Trail Outfitters,Shopping,134.68,Cash
+2026-06-24,Corner Pantry,Groceries,121.55,Debit
+2026-06-24,Harbour Cafe,Dining,34.29,Credit
+2026-06-24,Local Cinema,Entertainment,54.40,Cash
+2026-06-26,City Transit,Transport,11.52,Cash
+2026-06-28,Oak Street Kitchen,Dining,10.93,Cash
+2026-06-29,Northside Grocer,Groceries,33.14,Credit
+2026-06-30,Corner Pantry,Groceries,31.44,Cash
+2026-06-30,Paper & Pine,Shopping,89.54,Debit
+2026-07-01,Maple Apartments,Rent,1850.00,Debit
+2026-07-01,Oak Street Kitchen,Dining,44.04,Cash
+2026-07-02,Music Subscription,Entertainment,35.24,Credit
+2026-07-04,Community Events,Entertainment,16.15,Credit
+2026-07-04,Oak Street Kitchen,Dining,12.50,Credit
+2026-07-05,Home Internet,Utilities,75.00,Credit
+2026-07-06,Paper & Pine,Shopping,136.44,Cash
+2026-07-07,Neighbourhood Taxi,Transport,25.12,Debit
+2026-07-09,City Transit,Transport,7.66,Cash
+2026-07-09,City Transit,Transport,12.95,Cash
+2026-07-10,Harbour Cafe,Dining,60.84,Credit
+2026-07-10,Noodle Corner,Dining,19.42,Cash
+2026-07-10,Northside Grocer,Groceries,102.91,Credit
+2026-07-11,Maple Market,Groceries,70.72,Cash
+2026-07-11,Trail Outfitters,Shopping,36.43,Debit
+2026-07-13,Corner Pantry,Groceries,47.64,Credit
+2026-07-13,Corner Pantry,Groceries,49.44,Cash
+2026-07-14,Corner Pantry,Groceries,123.62,Cash
+2026-07-14,Everyday Goods,Shopping,60.33,Credit
+2026-07-15,City Hydro,Utilities,57.80,Debit
+2026-07-17,Harbour Cafe,Dining,28.22,Debit
+2026-07-17,Oak Street Kitchen,Dining,7.14,Cash
+2026-07-18,Downtown Parking,Transport,16.23,Debit
+2026-07-18,Music Subscription,Entertainment,12.94,Cash
+2026-07-18,Music Subscription,Entertainment,22.12,Credit
+2026-07-19,Corner Pantry,Groceries,34.51,Credit
+2026-07-20,Neighbourhood Taxi,Transport,20.75,Debit
+2026-07-23,Maple Market,Groceries,79.47,Debit
+2026-07-23,Oak Street Kitchen,Dining,31.28,Cash
+2026-07-23,Trail Outfitters,Shopping,85.07,Credit
+2026-07-29,Harbour Cafe,Dining,12.13,Debit
+2026-07-31,Corner Pantry,Groceries,39.13,Credit
+2026-08-01,Maple Apartments,Rent,1850.00,Debit
+2026-08-03,Paper & Pine,Shopping,188.82,Cash
+2026-08-04,Harbour Cafe,Dining,27.89,Cash
+2026-08-05,Home Internet,Utilities,75.00,Credit
+2026-08-05,Maple Market,Groceries,66.78,Credit
+2026-08-07,City Transit,Transport,24.36,Cash
+2026-08-09,Noodle Corner,Dining,12.18,Debit
+2026-08-11,Community Events,Entertainment,20.19,Debit
+2026-08-11,Community Events,Entertainment,42.95,Debit
+2026-08-14,Trail Outfitters,Shopping,80.27,Cash
+2026-08-15,City Hydro,Utilities,91.81,Debit
+2026-08-17,Community Events,Entertainment,35.32,Debit
+2026-08-17,Downtown Parking,Transport,12.97,Cash
+2026-08-18,Local Cinema,Entertainment,20.41,Debit
+2026-08-20,Downtown Parking,Transport,39.09,Cash
+2026-08-21,Noodle Corner,Dining,48.23,Cash
+2026-08-22,Noodle Corner,Dining,22.32,Debit
+2026-08-22,Northside Grocer,Groceries,44.84,Cash
+2026-08-22,Paper & Pine,Shopping,112.28,Debit
+2026-08-22,Trail Outfitters,Shopping,197.87,Cash
+2026-08-24,Northside Grocer,Groceries,82.42,Cash
+2026-08-26,Downtown Parking,Transport,29.19,Cash
+2026-08-26,Northside Grocer,Groceries,45.71,Credit
+2026-08-27,Harbour Cafe,Dining,25.14,Credit
+2026-08-27,Noodle Corner,Dining,44.20,Debit
+2026-08-27,Noodle Corner,Dining,50.42,Credit
+2026-08-28,Harbour Cafe,Dining,45.05,Credit
+2026-08-28,Northside Grocer,Groceries,68.65,Credit
+2026-08-29,Corner Pantry,Groceries,94.58,Cash
+2026-08-29,Maple Market,Groceries,95.55,Credit
+2026-08-31,City Transit,Transport,25.24,Credit
+2026-08-31,Corner Pantry,Groceries,62.41,Credit
+2026-09-01,Maple Apartments,Rent,1850.00,Debit
+2026-09-05,Harbour Cafe,Dining,8.50,Credit
+2026-09-05,Home Internet,Utilities,75.00,Credit
+2026-09-08,Music Subscription,Entertainment,32.48,Credit
+2026-09-08,Neighbourhood Taxi,Transport,17.90,Cash
+2026-09-10,Corner Pantry,Groceries,94.53,Credit
+2026-09-10,Corner Pantry,Groceries,112.45,Cash
+2026-09-10,Maple Market,Groceries,75.00,Debit
+2026-09-11,Community Events,Entertainment,36.18,Credit
+2026-09-11,Northside Grocer,Groceries,104.18,Debit
+2026-09-13,Harbour Cafe,Dining,26.48,Cash
+2026-09-14,Oak Street Kitchen,Dining,58.09,Credit
+2026-09-15,City Hydro,Utilities,82.23,Debit
+2026-09-15,Neighbourhood Taxi,Transport,7.61,Credit
+2026-09-16,Harbour Cafe,Dining,56.57,Debit
+2026-09-18,Downtown Parking,Transport,29.49,Cash
+2026-09-20,Harbour Cafe,Dining,33.95,Credit
+2026-09-22,Corner Pantry,Groceries,63.01,Debit
+2026-09-22,Harbour Cafe,Dining,31.92,Credit
+2026-09-23,Harbour Cafe,Dining,6.95,Debit
+2026-09-23,Local Cinema,Entertainment,33.39,Debit
+2026-09-23,Noodle Corner,Dining,63.54,Debit
+2026-09-24,Paper & Pine,Shopping,92.77,Debit
+2026-09-25,Music Subscription,Entertainment,52.69,Cash
+2026-09-25,Trail Outfitters,Shopping,55.50,Debit
+2026-09-26,Corner Pantry,Groceries,55.80,Credit
+2026-09-26,Corner Pantry,Groceries,123.02,Cash
+2026-09-26,Neighbourhood Taxi,Transport,41.56,Cash
+2026-09-27,Paper & Pine,Shopping,104.76,Credit
+2026-09-27,Trail Outfitters,Shopping,132.84,Debit
+2026-09-30,Corner Pantry,Groceries,56.51,Cash
+2026-09-30,Downtown Parking,Transport,13.44,Credit

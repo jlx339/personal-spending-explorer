@@ -1,0 +1,18 @@
+[project]
+name = "personal-spending-explorer"
+version = "0.1.0"
+description = "A CAD personal spending dashboard with fictional demo data."
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "streamlit>=1.48,<2",
+    "pandas>=2.2,<3",
+    "plotly>=6.2,<7",
+]
+
+[dependency-groups]
+dev = ["pytest>=8.3,<10"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
